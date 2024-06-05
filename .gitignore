@@ -1,0 +1,23 @@
+# ignore all migrations in the app
+migrations/
+
+# ignore all static files in the app
+static/
+
+# ignore all __pycache__ files in the app
+__pycache__/
+
+# ignore all .pyc files in the app
+*.pyc
+
+# ignore all .pyo files in the app
+*.pyo
+
+# ignore all .pyd files in the app
+*.pyd
+
+# ignore venv
+venv/
+
+# ignore all .env files in the app
+.env
